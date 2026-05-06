@@ -1,6 +1,6 @@
 # hey, I'm Jay 👋
 
-> 18 y/o self-taught ML engineer from Nanded, Maharashtra.  
+> 18 y/o self-taught ML engineer .  
 > No degree. Just curiosity, papers, and a lot of failed training runs. 😭
 
 ---
