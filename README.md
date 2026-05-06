@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
->_< 18 y/o · self-taught · no degree · Nanded, Maharashtra
+>_< 18 y/o · self-taught 
 <_> papers → math → code from scratch · no black boxes · no shortcuts
 >_> loss toh badhega, par main nahi rukunga 🔥
 ```
@@ -130,11 +130,7 @@ documenting everything — wins, failures, 2am debugging sessions, all of it
 
 <div align="center">
 
-```
->_< don't copy my code
-<_> understand it
->_> then make it better than mine
-```
+
 
 *i use arch btw* 🐧
 
