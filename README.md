@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
->_< 18 y/o · self-taught ML engineer · Nanded, Maharashtra
+>_< 18 y/o · self-taught ML engineer
 <_> papers → math → code from scratch · no black boxes · no shortcuts
 >_> loss toh badhega, par main nahi rukunga 🔥
 ```
@@ -32,6 +32,27 @@ no college. no tutorials. just curiosity and code. 🙂
 [✅] GPT-2                  → understood transformers the hard way
 [🔨] Diffusion Model        → currently suffering
 [🔨] CLI File Manager       → rust + ratatui · also suffering
+```
+
+---
+
+### 🌍 open source
+
+```
+[🔨] Helix Editor           → contributing to the rust-based terminal text editor
+                              learning how real production rust codebases work
+```
+
+> open source is where I learn how real software is built at scale
+
+---
+
+### 📄 currently reading
+
+```
+→  DDPM — Denoising Diffusion Probabilistic Models
+→  Attention Is All You Need (re-reading, always finding new things)
+→  Writing An OS In Rust (blog series by Philipp Oppermann)
 ```
 
 ---
@@ -117,10 +138,6 @@ while not understand:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaymankar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymankar&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaymankar&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -140,13 +157,12 @@ documenting everything — wins, failures, 2am debugging sessions, all of it
 
 ---
 
+### 📬 reach me
+
 <div align="center">
 
-```
->_< don't copy my code
-<_> understand it
->_> then make it better than mine
-```
+open to **internships · research collabs · open source**  
+best way → GitHub issues or DMs on instagram (once up)
 
 *i use arch btw* 🐧
 
