@@ -151,11 +151,17 @@ while not understand:
 documenting everything — wins, failures, 2am debugging sessions, all of it  
 **raw. real. no filter.**
 
-`instagram` → https://www.instagram.com/origin.log_?igsh=MWYxcjRnNzR6b3Rvbg== &nbsp;|&nbsp; `twitter` → coming soon
+<a href="https://www.instagram.com/origin.log_" target="_blank">
+  <img src="https://img.shields.io/badge/origin.log__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://twitter.com" target="_blank">
+  <img src="https://img.shields.io/badge/coming_soon-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 </div>
 
----
+----
 
 ### 📬 reach me
 
