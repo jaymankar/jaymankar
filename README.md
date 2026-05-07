@@ -162,7 +162,11 @@ documenting everything — wins, failures, 2am debugging sessions, all of it
 <div align="center">
 
 open to **internships · research collabs · open source**  
-best way → GitHub issues or DMs on instagram (once up)
+best way → GitHub issues or Instagram DMs
+
+<a href="https://www.instagram.com/origin.log_" target="_blank">
+  <img src="https://img.shields.io/badge/DM_me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 *i use arch btw* 🐧
 
