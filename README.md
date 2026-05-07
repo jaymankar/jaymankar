@@ -151,7 +151,7 @@ while not understand:
 documenting everything — wins, failures, 2am debugging sessions, all of it  
 **raw. real. no filter.**
 
-`instagram` → coming soon &nbsp;|&nbsp; `twitter` → coming soon
+`instagram` → https://www.instagram.com/origin.log_?igsh=MWYxcjRnNzR6b3Rvbg== &nbsp;|&nbsp; `twitter` → coming soon
 
 </div>
 
